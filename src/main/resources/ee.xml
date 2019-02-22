@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EntitlementEntitys>
+	<EntitlementEntity>
+		<!-- <entitlementId>1012</entitlementId> -->
+		<diaryId>9</diaryId>
+		<customerId>34</customerId>
+	</EntitlementEntity>
+	<EntitlementEntity>
+		<!-- <entitlementId>1032</entitlementId> -->
+		<diaryId>9</diaryId>
+		<customerId>34</customerId>
+	</EntitlementEntity>
+</EntitlementEntitys>
